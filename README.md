@@ -2,7 +2,7 @@
 
 ***Purpose***
 
-The purpose of this module is to apply the use of cloud service database in connectivity with PgAdmin to have interactive databases. Another purpose is to use Google colaboratory to perform data analysis to see if the Vine program helps promote more 5-star reviews with the help of importing Pyspark.
+The purpose of this module is to apply the use of cloud service database in connectivity with PgAdmin to have interactive databases. Another purpose is to use Google colaboratory to perform data analysis  with Pyspark to see if the Vine program helps promote more 5-star reviews.
 
 
 ***Results***
