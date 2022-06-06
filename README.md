@@ -10,18 +10,18 @@ The purpose of this module is to apply the use of cloud service database in conn
 ![deliverable_2](https://user-images.githubusercontent.com/99565016/172095578-8d1b0ea6-b66e-4d75-bed5-3c1500709270.PNG)
 
 
-How many Vine reviews and non-Vine reviews were there?
+**How many Vine reviews and non-Vine reviews were there?**
 
 Total vine reviews is shown to be at 43 reviews.
 Total non-Vine reviews is shown to be at 7750 reviews.
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+**How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
 Total Vine reviews with 5 stars is shown to be at 14 reviews.
 Total non_Vine reviews with 5 stars is shown to be at 4027 reviews.
 
 
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+**What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
 Percentage of vine reviews with 5 stars is ~32.6%
 Percentage of non-Vine reviews with 5 stars is ~52.0%
